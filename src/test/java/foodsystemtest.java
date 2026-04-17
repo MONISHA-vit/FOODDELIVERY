@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 import src.main.java.foodsystem;
 
-public class foodsystemtest {
+public class foodsystemTest {
 
     @Test
     public void testPlaceOrderSuccess() {
